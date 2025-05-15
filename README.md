@@ -1,11 +1,11 @@
 # PT
 # Agenda de Contatos
 
-Projeto desenvolvido no módulo de Front-End do curso de Full Stack da EBAC. A proposta foi criar uma agenda de contatos onde o usuário pode cadastrar nome e telefone, adicionando as informações a uma tabela exibida na página.
+Projeto desenvolvido no módulo de Front-End do curso de Full Stack da EBAC. A proposta foi criar uma agenda de contatos onde o usuário pode cadastrar nome, e-mail e telefone, adicionando as informações a uma tabela exibida na página.
 
 ## Funcionalidades
 - Formulário para adicionar contatos
-- Tabela dinâmica com nome e telefone
+- Tabela dinâmica com nome, e-mail e telefone
 
 ## Tecnologias utilizadas
 - HTML
@@ -17,11 +17,11 @@ Projeto desenvolvido no módulo de Front-End do curso de Full Stack da EBAC. A p
 # EN
 # Contact List App
 
-Project developed in the Front-End module of EBAC's Full Stack course. The goal was to create a contact list where the user can enter a name and phone number, and see it added to a dynamic table on the page.
+Project developed in the Front-End module of EBAC's Full Stack course. The goal was to create a contact list where the user can enter a name, email and phone number, and see it added to a dynamic table on the page.
 
 ## Features
 - Form to add contacts
-- Dynamic table with name and phone number
+- Dynamic table with name, email and phone number
 
 ## Technologies used
 - HTML
